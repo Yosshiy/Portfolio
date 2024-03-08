@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link href="PortCSS.css" rel="stylesheet" />
+  <title>ポートフォリオ</title>
+</head>
+<body>
+    <header id="header">
+        <div class="wrapper">
+            MYPORTFOLIO
+        </div>
+    </header>
+    <div class="Profile">
+        <div class="ProfileContents">
+            <div class="Profile">
+                <div class="Profile-Icon">
+                    <img src="Capture002.jpeg">
+                </div>
+                <div class="Profile-Text">
+                    <h4>kageura yoshikazu</h4>
+                    <h1>影浦　敬和</h1>
+                    <h3 class="Profile-MainText">ご覧頂きありがとうございます。影浦と申します。<br>
+                        学業で学んでいたプログラミングを仕事に生かせたらと思い、転職活動中です。<br>
+                        詳しいプロフィールは下記に記載いたします。
+                    </h3>
+                </div>
+            </div>
+            <div class="Border"></div>
+            <div class="MainProfile">
+                <img src="Human.jpg">
+                <div class="ProfileText">
+                    <h1>プロフィール</h1>
+                    <h2>年齢</h2>
+                    <h3>21歳</h3>
+                    <h2>出身地</h2>
+                    <h3>愛媛県</h3>
+                    <h2>趣味</h2>
+                    <h3>釣り、お菓子作り、野球観戦 etc...</h3>
+                    <h2>特技</h2>
+                    <h3>プログラム、料理</h3>
+                    <h2>ひとこと</h2>
+                    <h3>実務未経験になりますので高い壁というのは承知の上ですが、どうしてもIT業界があきらめきれ<br>ず、スキルを伸ばしながら転職活動をしています。</h3>
+                    <h3>IT業界に就くのは幼い頃からの夢ですので、与えられた業務には全力でなんとしてでも食らいつ<br>く所存です。よろしくお願いいたします。</h3>
+                </div>
+            </div>
+            <div class="Border"></div>
+            <div class="MainProfile">
+                <img src="History.jpg">
+                <div class="ProfileText">
+                    <h1>略歴</h1>
+                    <h3>バンタンゲームアカデミー卒業後、地元愛媛県のイベント会社に就職。業務の一部自動化など、</h3>
+                    <h3>学んできたことを活かし貢献。当社の倒産により再就職を二回行い、現在は東京にてプログラム</h3>
+                    <h3>関係のお仕事に従事できるよう模索中です。</h3>
+                </div>
+            </div>
+            <div class="Border"></div>
+            <div class="MainProfile">
+                <img src="Capture005.jpg">
+                <div class="ProfileText">
+                    <h1>Skill</h1>
+                    <h2>-使用ソフト等-</h2>
+                    <h3>-Blender</h3>
+                    <h3>-SourceTree</h3>
+                    <h3>-Unity</h3>
+                    <h3>-GitHub</h3>
+                    <h3>-Slack</h3>
+                    <h3>-ChatWork</h3>
+                    <h2>-Unity関連-</h2>
+                    <h3>-UniRx</h3>
+                    <h4>イベント処理を行うために使用</h4>
+                    <h3>-UniTask</h3>
+                    <h4>後述するDOTween等で非同期処理を行うために使用</h4>
+                    <h3>-DOTween</h3>
+                    <h4>アニメーション、イージングの実装に使用</h4>
+                    <h3>-Extenject(Zenject)</h3>
+                    <h4>SOLID原則の解決、DIのために使用</h4>
+                    <h3>-Assembly Definition(勉強中)</h3>
+                    <h4>依存関係の整理、コンパイル時間の短縮のために使用</h4>
+                </div>
+            </div>
+            <div class="Border"></div>
+            <div class="MainProfile">
+                <img src="Award.jpg">
+                <div class="ProfileText">
+                    <h1>受賞歴</h1>
+                    <h2>校外コンテスト</h2>
+                    <h3>ゲームクリエイター甲子園2021 U-18部門 2位</h3>
+                    <h2>校内コンテスト</h2>
+                    <h3>バンタンゲームアカデミー １年次前期学内審査会　最優秀賞</h3>
+                    <h3>バンタンゲームアカデミー １年次後期学内審査会　最優秀賞</h3>
+                </div>
+            </div>
+            <div class="Border"></div>
+            <div class="MainProfile">
+                <img src="Contents.jpg">
+                <div class="ProfileText">
+                    <h1>制作コンテンツ</h1>
+                    <h2>MovieOnly -画像をタップでYouTubeに移動-</h2>
+                    <a href="https://www.youtube.com/watch?v=c-YyMNYjtAw">
+                        <img src="Capture001.jpg">
+                    </a>
+                    <h2>Play -画像をタップでプレイサイトに移動-</h2>
+                    <a href="https://unityroom.com/games/ygame_hakoiro">
+                        <img src="Capture002.jpeg">
+                    </a>
+                    <a href="https://unityroom.com/games/fullcharge_y">
+                        <img src="Capture003.png">
+                    </a>
+                    <a href="https://unityroom.com/games/volt">
+                        <img src="Capture004.png">
+                    </a>
+                    <div class="Coding">
+                        <h2>Coding</h2>
+                        <a href="https://github.com/Yosshiy">
+                            <h3>GitHub</h3>
+                            <img src="github-mark.png">
+                        </a>
+                        <a href="https://qiita.com/Yosshiy-Tec">
+                            <h3>Qiita</h3>
+                            <img src="favicon.png">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </dev>
+    </dev>
+</body>
+</html>
